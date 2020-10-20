@@ -1,3 +1,2 @@
 # rulehead
-RULEHEAD.com
-coming soon
+## coming soon
